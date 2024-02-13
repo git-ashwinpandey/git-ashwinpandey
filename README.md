@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-ashwinpandey&label=Profile%20views&color=0e75b6&style=flat" alt="git-ashwinpandey" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Next.js, Python, Data Structures & Algorithms**
 
 - 📫 How to reach me **ap.ashwinpandey@gmail.com**
 
