@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwin Pandey</h1>
+<h1 align="center">Hi, I'm Ashwin Pandey</h1>
 <h3 align="center">A passionate Software developer enrolled in Seneca Polytechnic</h3>
 🌱 I’m currently learning Next.js, Python, Data Structures & Algorithms<br>📫 How to reach me: ap.ashwinpandey@gmail.com
 
